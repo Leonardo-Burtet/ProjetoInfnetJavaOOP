@@ -1,0 +1,6 @@
+Pedido{descricao='Pedido cliente 1', data=2023-09-08T00:20:28.322559967, web=false, produtos='[Comida [peso=1000.0, vegano=false, ingredientes=Macarrão 3], Comida [peso=1000.0, vegano=false, ingredientes=Macarrão 1], Bebida [gelada=true, tamanho=0.5, marca=Refri 3], Bebida [gelada=true, tamanho=0.5, marca=Chá 1]]', solicitante='Leonardo Burtet'}
+
+Pedido{descricao='Pedido cliente 2', data=2023-09-08T00:20:28.322896903, web=false, produtos='[Sobremesa [quantidade=2.0, doce=true, informacao=Sobremesa 1], Bebida [gelada=true, tamanho=0.5, marca=Suco 1], Bebida [gelada=true, tamanho=0.5, marca=Chá 3], Sobremesa [quantidade=2.0, doce=true, informacao=Bolo 3]]', solicitante='Jose Alves'}
+
+Pedido{descricao='Pedido cliente 3', data=2023-09-08T00:20:28.322912099, web=false, produtos='[Bebida [gelada=true, tamanho=0.5, marca=Refri 1], Sobremesa [quantidade=2.0, doce=true, informacao=Bolo 1]]', solicitante='Ricardo Lopes'}
+
